@@ -3,7 +3,7 @@ A beginner-friendly machine learning project that predicts **diabetes disease pr
 
 ---
 
-## Overview
+## Overview 
 
 This notebook walks through a complete ML regression workflow — from loading data to evaluating the effect of different values of `k` on model performance.
 
